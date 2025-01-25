@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5708579-461b-468d-a9a2-c1becd1c82c2" name="更改" comment="集合训练-电影系统架构搭建" />
+    <list default="true" id="e5708579-461b-468d-a9a2-c1becd1c82c2" name="更改" comment="集合训练-电影系统架构搭建">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionDemo1/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionDemo/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionDemo1/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionDemo/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionDemo1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionDemo/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,19 +18,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2rqFFaI9tbJLh1LYi2o4cerPmoC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,8 +60,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true",
-    "应用程序.Test.executor": "Run"
+    "应用程序.Test.executor": "Run",
+    "应用程序.map.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,6 +73,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\ideaproject\Java-comprehensive-exercises\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapDemo.map" />
+      <module name="Java-comprehensive-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.map" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -76,7 +111,8 @@
       <updated>1737278604358</updated>
       <workItem from="1737278605615" duration="2000" />
       <workItem from="1737279929596" duration="1981000" />
-      <workItem from="1737282944692" duration="1027000" />
+      <workItem from="1737282944692" duration="3327000" />
+      <workItem from="1737813301448" duration="1205000" />
     </task>
     <task id="LOCAL-00001" summary="集合训练-电影系统架构搭建">
       <option name="closed" value="true" />
@@ -95,5 +131,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="集合训练-电影系统架构搭建" />
     <option name="LAST_COMMIT_MESSAGE" value="集合训练-电影系统架构搭建" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

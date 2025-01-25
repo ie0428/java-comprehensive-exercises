@@ -1,4 +1,4 @@
-package collectionDemo1;
+package collectionDemo;
 
 import lombok.Data;
 
